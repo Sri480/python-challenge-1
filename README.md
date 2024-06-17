@@ -2,7 +2,7 @@
 
 ## Assignment
 
-** Additions to the Variety Food Truck to get the user order and present the user with the bill **
+Additions to the Variety Food Truck to get the user order and present the user with the bill
 
 
 Steps Include
